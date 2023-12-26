@@ -1,0 +1,258 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.navbar{
+display: flex;
+justify-content: space-between;
+margin-left: 200px;
+margin-right: 100px;
+margin-top: 40px;
+padding: 20px;
+
+}
+.navbar ul{
+    display: flex;
+   
+}
+.navbar ul li{
+    list-style-type: none;
+  
+}
+.navbar ul li a{
+    text-decoration: none;
+   color: black;
+    margin: 10px;
+    
+}
+.header-section{
+    display: white;
+    margin: 10px;
+}
+.navbar ul li img{
+    width: 70px;
+  
+}
+.navbar2{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 150px;
+margin-right: 70px;
+margin-top: 15px;
+background: blueviolet;
+}
+.navbar
+.navbar2 input{
+    width: 400px;
+    height: 30px;
+    
+}
+.navbar2 a {
+    text-decoration: none;
+    color: black;
+}
+    .content-section image{
+        width: 100%;
+    }
+    .topimg{
+        width: 100%;
+        position: relative;
+        height: 400px;
+    }
+    .text{
+        position: absolute;
+        top: 300px;
+        bottom: 300px;
+        left: 550px;
+        right: 300px;
+        
+    }
+    .heading3{
+        padding: 20px;
+        color: black;
+    }
+    .heading1{
+        padding: 10px;
+        color: black;
+    }
+    .btn{
+        margin-left: 50px;
+        color: black;
+        background-color: orange;
+        padding: 10px;
+        border-top-left-radius: 50px;
+        border-bottom-left-radius: 50px;
+        border-top-right-radius: 50px;
+        border-bottom-right-radius: 50px;
+        width: 150px;
+        cursor: pointer;
+        border: 0px;
+    }
+    .image-section-2{
+        display: flex;
+        width: 79%;
+       margin: 30px 20px 0px 90px;
+    }
+    .middleimg{
+        width: 50%;
+        height: 200px;
+        margin: 30px 20px 0px 20px;
+    }
+    .freshfoodheading{
+        text-align: center;
+        margin: 20px;
+    }
+    .middleancer{
+        text-align: center;
+       
+    }
+    .a{
+        margin: 20px;
+        color: black;
+        text-decoration: none;
+        
+        
+    }
+    .card-wrpper{
+        width: 90%;
+        display: flex;
+        text-align: center;
+        margin: 20px 20px 0px 90px;
+    }
+    .card{
+        width: 30%;
+        margin: 10px; 
+    }
+    .cardimage{
+        width: 100%;
+        height: 100px;
+    }
+    .cardheading{
+        padding: 5px;
+    }
+    .cardparagraph{
+        padding: 5px;
+    }
+    .single-image{
+        width: 89%;
+        margin: 20px 20px 0px 90px;
+    }
+    .singimage{
+        width: 93%;
+        height: 250px;
+    }
+    .card-wrpper-2{
+        width: 90%;
+        display: flex;
+        text-align: center;
+        margin: 20px 20px 0px 90px;
+    }
+    .card-2{
+        width: 17%;
+        margin: 10px;
+        height: 200px;
+        
+        
+    }
+    .cardimage-2{
+        width: 100%;
+        height: 300px;
+    }
+    .cardheading-2{
+        padding: 5px;
+    }
+    .cardparagraph-2{
+        padding: 5px;
+    }
+    .h4{
+        text-align: center;
+        padding: 5px;
+    }
+    .double-image{
+        
+        display: flex;
+        width: 80%;
+       margin: 100px 20px 0px 90px;
+    }
+    .doubleimage{
+        width: 30%;
+        height: 200px;
+        margin: 100px 20px 0px 20px;
+    }
+    .doubleimage-2{
+        width: 68%;
+        height: 200px;
+        margin: 100px 20px 0px 20px;
+    }
+   .footer-1{
+    background-color: navajowhite;
+    width: 100%;
+    height: 150px;
+    margin-top: 200px;
+   }
+   .footer-card-design{
+    display: flex;
+   }
+   .footer-card-1{
+    width: 20%;
+    margin: 20px;
+    padding: 10px;
+   }
+   .card-footer-wapper{
+    display: flex;
+   }
+   .footer-h3{
+    padding: 2px;
+    
+    
+   }
+   .material-symbols-outlined{
+    margin-right: 20px;
+   }
+   .footer-2-card-1{
+    width: 22%;
+   }
+   .footer-2-card-1 ul li a{
+    text-decoration: none;
+    display: flex;
+    padding: 10px;
+    color: white;
+    margin: 20px;
+   }
+   .footer-2-card-1 ul{
+    list-style-type: none;
+    margin: 20px;
+    color: white;
+    
+   }
+   .footer-2-ancer{
+    margin: 40px 10px 10px 40px;
+    color: white;
+    
+   }
+   .footer-2-card-2{
+    width: 22%;
+   }
+   .footer-2-card-2 ul{
+    list-style-type: none;
+    margin: 50px;
+    color: white;
+   }
+   .footer-2-card-2 ul li a{
+    text-decoration: none;
+    padding: 5px;
+    color: white;
+
+    
+   }
+   .footer-2-cards{
+    display: flex;
+    margin: 10px;
+    
+   }
+   .footer-2{
+    background-color: yellowgreen;
+   }
+   .h4-cat{
+    background-color: orange;
+   }
